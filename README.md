@@ -304,4 +304,3 @@ This project demonstrates joining related datasets, building business metrics, c
 **Mohammad**  
 B.Sc. in Computer Science, Data Science concentration — Ontario Tech University
 
-[GitHub](https://github.com/Mohammad0104) · [Portfolio](https://mohammad0104.github.io/)
