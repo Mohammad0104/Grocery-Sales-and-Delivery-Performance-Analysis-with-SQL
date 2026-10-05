@@ -1,7 +1,5 @@
-# 🛒 Grocery Sales and Delivery Performance — SQL Project
-
-> A MySQL portfolio project exploring grocery sales, category profitability, shipping costs, and delivery reliability.
-
+📊 Retail Sales and Shipping Insights — SQL Project
+Using MySQL to analyze sales performance, identify delivery delays, and uncover opportunities to improve retail operations.
 ---
 
 ## 📌 Project Background
